@@ -1,24 +1,24 @@
-# 📱 Proyecto Ventas de Celulares
+#  Proyecto Ventas de Celulares
 
-## 📌 Descripción
+## Descripción
 
 Proyecto de análisis y visualización de datos de ventas de celulares desarrollado en Power BI. El objetivo es analizar el comportamiento de las ventas, identificar tendencias y obtener información relevante para apoyar la toma de decisiones.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Analizar los datos de ventas de celulares mediante indicadores, visualizaciones y segmentaciones que permitan identificar el comportamiento de las ventas y los principales resultados del negocio.
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 * Power BI
 * Power Query
 * DAX
 
-## 📊 Dashboard
+##  Dashboard
 
-![Dashboard de Ventas](Images/informe.jpg)
+![Dashboard de Ventas](Images/Informe.jpg)
 
-## 📈 Visualizaciones
+##  Visualizaciones
 
 El dashboard incluye diferentes visualizaciones para analizar el comportamiento de las ventas, entre ellas:
 
@@ -35,13 +35,13 @@ El dashboard incluye diferentes visualizaciones para analizar el comportamiento 
 
 El proyecto permite explorar los datos mediante diferentes filtros y visualizaciones, facilitando la identificación de tendencias, diferencias entre marcas y comportamiento de las ventas.
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```text
 Proyecto-Ventas-PowerBI/
 │
 ├── Images/
-│   ├── informe.jpg
+│   ├── Informe.jpg
 │   ├── Cantidad_Ventas_X_Marca.jpg
 │   ├── Grafico_barras_apiladas.jpg
 │   ├── Grafico_Columnas_Cintas.jpg
@@ -57,7 +57,7 @@ Proyecto-Ventas-PowerBI/
 └── README.md
 ```
 
-## 💡 Conclusiones
+##  Conclusiones
 
 El análisis permite obtener una visión general del comportamiento de las ventas y facilita la interpretación de los principales indicadores mediante herramientas de visualización de datos.
 
