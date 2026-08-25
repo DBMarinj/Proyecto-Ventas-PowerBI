@@ -31,7 +31,7 @@ El dashboard incluye diferentes visualizaciones para analizar el comportamiento 
 * Segmentación de datos.
 * Matrices para el análisis detallado.
 
-## 🔎 Análisis
+## Análisis
 
 El proyecto permite explorar los datos mediante diferentes filtros y visualizaciones, facilitando la identificación de tendencias, diferencias entre marcas y comportamiento de las ventas.
 
